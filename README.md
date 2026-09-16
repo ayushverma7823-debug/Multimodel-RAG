@@ -9,6 +9,19 @@
 [![RAG](https://img.shields.io/badge/Architecture-RAG-purple)](#-system-architecture)
 [![LLM](https://img.shields.io/badge/LLM-Gemini%20%7C%20Ollama-green)](#-supported-ai-models)
 
+## 📸 Screenshots
+
+### LocalRAG Q&A System
+
+<p align="center">
+  <img src="./Screenshot%20%28496%29.png" alt="LocalRAG Q&A System" width="900">
+</p>
+
+### Application Interface
+
+<p align="center">
+  <img src="./Screenshot%20%28497%29.png" alt="LocalRAG Application Interface" width="900">
+</p>
 ## 📌 Overview
 
 **LocalRAG Q&A System** is an end-to-end Retrieval-Augmented Generation

@@ -2,7 +2,7 @@
 
 > A production-style Retrieval-Augmented Generation (RAG) application
 > for asking questions over indexed research documents and generating
-> grounded answers with either Google Gemini or a local Ollama model.
+> grounded answers with either Google Gemini or a local Ollama model
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-orange?logo=gradio&logoColor=white)](https://www.gradio.app/)

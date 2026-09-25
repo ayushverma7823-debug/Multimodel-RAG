@@ -26,7 +26,7 @@
 
 **LocalRAG Q&A System** is an end-to-end Retrieval-Augmented Generation
 application designed to answer questions from a document collection
-instead of relying only on an LLM's pre-trained knowledge.
+instead of relying only on an LLM's pre-trained knowledge
 
 The system combines:
 
